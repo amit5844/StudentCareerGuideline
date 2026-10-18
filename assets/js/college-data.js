@@ -1,0 +1,1 @@
+window.CCColleges={list(){return CC_DATA.colleges;},search({q='',course='',state='',budget=''}={}){return CC_DATA.colleges.filter(c=>(!q||`${c.name} ${c.city} ${c.state}`.toLowerCase().includes(q.toLowerCase()))&&(!course||c.course.toLowerCase().includes(course.toLowerCase()))&&(!state||c.state===state)&&(!budget||c.budget===budget));}};

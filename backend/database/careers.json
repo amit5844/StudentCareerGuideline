@@ -1,0 +1,7 @@
+[
+ {"id":"software","title":"Software Developer","category":"Technology","interests":["technology","math","problem"],"strengths":["analytical","problem","independent"],"subjects":["Mathematics","Computer Science"],"description":"Designs, builds, tests and maintains software."},
+ {"id":"data","title":"Data Analyst","category":"Data & Business","interests":["technology","math","business","problem"],"strengths":["analytical","numerical","detail"],"subjects":["Mathematics","Statistics","Computer Science","Economics"],"description":"Turns data into reports, dashboards and insights."},
+ {"id":"doctor","title":"Doctor / Physician","category":"Healthcare","interests":["biology","helping","science"],"strengths":["empathy","detail","research"],"subjects":["Biology","Chemistry","Physics"],"description":"Diagnoses, treats and helps prevent illness as a licensed professional."},
+ {"id":"ca","title":"Chartered Accountant","category":"Finance","interests":["business","math","problem"],"strengths":["numerical","detail","analytical"],"subjects":["Accountancy","Economics"],"description":"Works across accounting, audit, taxation and business finance."},
+ {"id":"designer","title":"UX / Product Designer","category":"Design","interests":["creative","technology","helping"],"strengths":["creativity","empathy","communication"],"subjects":["Art / Design","English"],"description":"Researches user needs and designs useful digital experiences."}
+]

@@ -1,0 +1,1 @@
+window.CCCharts={bar(items){return `<div class="grid" style="gap:13px">${items.map(([label,value])=>`<div><div style="display:flex;justify-content:space-between;gap:10px;margin-bottom:6px"><span>${label}</span><strong style="color:var(--cyan)">${value}/5</strong></div><div class="progress"><span style="width:${value*20}%"></span></div></div>`).join('')}</div>`;}};

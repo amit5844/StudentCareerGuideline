@@ -1,0 +1,1 @@
+{"name":"careercompass-india","version":"1.0.0","private":true,"description":"Student-first career guidance platform starter","scripts":{"serve:frontend":"npx http-server . -p 8080 -c-1","install:api":"npm --prefix backend install","start:api":"npm --prefix backend start","test:api":"npm --prefix backend test"}}
